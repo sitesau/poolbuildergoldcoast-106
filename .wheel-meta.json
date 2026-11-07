@@ -1,0 +1,22 @@
+{
+  "wheel_id": 836,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-106",
+  "project": "concrete-pool-builder-gold-coast-local-options-compared-4ec08a0",
+  "parent_t1_ref": "poolbuildergoldcoast-152",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast local options compared",
+  "intended_url": "http://concrete-pool-builder-gold-coast-local-options-compared-4ec08a0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "221cdb444a74311c",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/concrete-pool-builder-gold-coast-beginner-guide-679bf6153d18e1a/",
+      "anchor": "a guide to concrete pool builder gold coast beginner guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
